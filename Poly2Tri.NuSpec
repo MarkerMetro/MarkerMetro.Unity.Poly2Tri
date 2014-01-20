@@ -13,6 +13,6 @@
     <dependencies/>
   </metadata>
   <files>
-    <file src="bin\Release\Pathfinding.Poly2Tri.dll" target="lib\"/>
+    <file src="bin\Release\Poly2Tri.dll" target="lib\"/>
   </files>
 </package>
